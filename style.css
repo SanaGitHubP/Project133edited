@@ -1,0 +1,26 @@
+body
+{
+    background-size: cover;
+}
+
+h1
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a:link, a:visited {
+    background-color:whitesmoke;
+    color: black;
+    border-radius: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    width: 200px;
+   box-shadow: 5px 5px 5px grey;
+  }
+  
+  a:hover, a:active {
+    background-color: whitesmoke;
+  }
+
+

@@ -1,0 +1,23 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    font-size: larger;
+    margin-top: 0px;
+}
+.heading:hover{
+    font-size: large;
+}
+a{
+    background-color: rgb(195, 172, 208);
+    border-radius: 10px;
+    width: 80px;
+    float: right;
+    color: black;
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px grey;
+}
